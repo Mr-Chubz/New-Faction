@@ -3,7 +3,7 @@ BuildingTemplates = {
        -- Power Structures
         {
             'T1EnergyProduction',
-            'xnb1101',
+            'LAGENT1',
         },
         {
             'T1HydroCarbon',
@@ -11,7 +11,7 @@ BuildingTemplates = {
         },
         {
             'T2EnergyProduction',
-            'xnb1201',
+            'LAGENT2',
         },
         {
             'T3EnergyProduction',

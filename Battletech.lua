@@ -2,12 +2,12 @@
 
 FactionList = {
     {
-        Key = 'nomads',
-        Category = 'NOMADS',
-        FactionInUnitBp = 'Nomads',
-        DisplayName = "<LOC _NOMADS>Nomads",
-        SoundPrefix = 'Nomads',
-        InitialUnit = 'XNL0001',
+        Key = 'Battletech',
+        Category = 'Battletech',
+        FactionInUnitBp = 'Battletech',
+        DisplayName = "<LOC _Battletech>Battletech",
+        SoundPrefix = 'Battletech',
+        InitialUnit = 'BT0001',
         CampaignFileDesignator = 'N',
         TransmissionLogColor = 'ff0000ff',
         Icon = "/widgets/faction-icons-alpha_bmp/nomads_ico.dds",
